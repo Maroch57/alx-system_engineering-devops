@@ -316,8 +316,9 @@ Directory: 0x07-networking_basics
 File: 4-TCP_and_UDP_ports
   
 5. Is the host on the network
-mandatory
 
+
+mandatory
 
 The Internet Control Message Protocol (ICMP) is a protocol in the Internet protocol suite. It is used by network devices, to check if other network devices are available on the network. The command ping uses ICMP to make sure that a network device remains online or to troubleshoot issues on the network.
 
