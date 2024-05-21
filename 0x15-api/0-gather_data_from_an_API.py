@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#!/usr/bin/python3
 """
 Return information for a given employee about his/her TODO list progress
 """
